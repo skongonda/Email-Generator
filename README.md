@@ -5,6 +5,8 @@ Please download the Llama 2 model from "https://huggingface.co/TheBloke/Llama-2-
 
 modelname: llama-2-7b-chat.ggmlv3.q8_0.bin
 
+Demo Link: https://huggingface.co/spaces/skongonda/Email-Generator
+
 ![image alt](https://github.com/skongonda/Email-Generator/blob/385659a0138a659d6d6656c3f737d48d3807657e/Screenshot.png)
 
 
