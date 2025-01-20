@@ -1,2 +1,4 @@
 # Email-Generator
-This app generates email based on your provided topic.
+This app generates emails based on the topic you provided.
+
+
